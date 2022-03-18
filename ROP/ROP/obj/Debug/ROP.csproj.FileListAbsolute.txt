@@ -1,0 +1,181 @@
+G:\PRG\ROP\ROP\ROP\bin\Debug\ROP.exe.config
+G:\PRG\ROP\ROP\ROP\bin\Debug\ROP.exe
+G:\PRG\ROP\ROP\ROP\bin\Debug\ROP.pdb
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.csprojAssemblyReference.cache
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.Form1.resources
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.Properties.Resources.resources
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.csproj.GenerateResource.cache
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.csproj.CoreCompileInputs.cache
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.exe
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.pdb
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.Easy.resources
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.Hard.resources
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.Medium.resources
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\ROP.exe.config
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\ROP.exe
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\ROP.pdb
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.csprojAssemblyReference.cache
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Difficulty.resources
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Easy.resources
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Form1.resources
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Hard.resources
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Medium.resources
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Properties.Resources.resources
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.csproj.GenerateResource.cache
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.csproj.CoreCompileInputs.cache
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.exe
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.pdb
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\8-bit Detective.wav
+G:\PRG\ROP\ROP\ROP\bin\Debug\8-bit Detective.wav
+G:\PRG\ROP\ROP\ROP\bin\Debug\Interop.WMPLib.dll
+G:\PRG\ROP\ROP\ROP\bin\Debug\AxInterop.WMPLib.dll
+G:\PRG\ROP\ROP\ROP\obj\Debug\Interop.WMPLib.dll
+G:\PRG\ROP\ROP\ROP\obj\Debug\AxInterop.WMPLib.dll
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.csproj.ResolveComReference.cache
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.Difficulty.resources
+C:\Users\tomip\Desktop\ROP\ROP\bin\Debug\8-bit Detective.wav
+C:\Users\tomip\Desktop\ROP\ROP\bin\Debug\ROP.exe.config
+C:\Users\tomip\Desktop\ROP\ROP\bin\Debug\ROP.exe
+C:\Users\tomip\Desktop\ROP\ROP\bin\Debug\ROP.pdb
+C:\Users\tomip\Desktop\ROP\ROP\bin\Debug\Interop.WMPLib.dll
+C:\Users\tomip\Desktop\ROP\ROP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\ROP.csprojAssemblyReference.cache
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\Interop.WMPLib.dll
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\ROP.csproj.ResolveComReference.cache
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\ROP.Difficulty.resources
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\ROP.Easy.resources
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\ROP.Form1.resources
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\ROP.Hard.resources
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\ROP.Medium.resources
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\ROP.Properties.Resources.resources
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\ROP.csproj.GenerateResource.cache
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\ROP.csproj.CoreCompileInputs.cache
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\ROP.exe
+C:\Users\tomip\Desktop\ROP\ROP\obj\Debug\ROP.pdb
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\Interop.WMPLib.dll
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\Interop.WMPLib.dll
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.csproj.ResolveComReference.cache
+C:\Users\tomip\Desktop\Škola\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\Crunch_sound.wav
+G:\PRG\ROP\ROP\ROP\bin\Debug\Crunch_sound.wav
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.Score.resources
+G:\PRG\ROP\ROP\ROP\obj\Debug\ROP.Congratulations.resources
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\8-bit Detective.wav
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\Crunch_sound.wav
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\ROP.exe.config
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\ROP.exe
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\ROP.pdb
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\Interop.WMPLib.dll
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.csprojAssemblyReference.cache
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\Interop.WMPLib.dll
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.csproj.ResolveComReference.cache
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Congratulations.resources
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Difficulty.resources
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Form1.resources
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Properties.Resources.resources
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Score.resources
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.csproj.GenerateResource.cache
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.csproj.CoreCompileInputs.cache
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.exe
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.pdb
+G:\ROP\ROP\ROP\bin\Debug\8-bit Detective.wav
+G:\ROP\ROP\ROP\bin\Debug\Crunch_sound.wav
+G:\ROP\ROP\ROP\bin\Debug\ROP.exe.config
+G:\ROP\ROP\ROP\bin\Debug\ROP.exe
+G:\ROP\ROP\ROP\bin\Debug\ROP.pdb
+G:\ROP\ROP\ROP\bin\Debug\Interop.WMPLib.dll
+G:\ROP\ROP\ROP\bin\Debug\AxInterop.WMPLib.dll
+G:\ROP\ROP\ROP\obj\Debug\ROP.csprojAssemblyReference.cache
+G:\ROP\ROP\ROP\obj\Debug\Interop.WMPLib.dll
+G:\ROP\ROP\ROP\obj\Debug\AxInterop.WMPLib.dll
+G:\ROP\ROP\ROP\obj\Debug\ROP.csproj.ResolveComReference.cache
+G:\ROP\ROP\ROP\obj\Debug\ROP.Congratulations.resources
+G:\ROP\ROP\ROP\obj\Debug\ROP.Difficulty.resources
+G:\ROP\ROP\ROP\obj\Debug\ROP.Form1.resources
+G:\ROP\ROP\ROP\obj\Debug\ROP.Properties.Resources.resources
+G:\ROP\ROP\ROP\obj\Debug\ROP.Score.resources
+G:\ROP\ROP\ROP\obj\Debug\ROP.csproj.GenerateResource.cache
+G:\ROP\ROP\ROP\obj\Debug\ROP.csproj.CoreCompileInputs.cache
+G:\ROP\ROP\ROP\obj\Debug\ROP.exe
+G:\ROP\ROP\ROP\obj\Debug\ROP.pdb
+G:\ROP\ROP\ROP\obj\Debug\ROP.Movement.resources
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Movement.resources
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Game.resources
+G:\ROP\ROP\ROP\obj\Debug\ROP.Game.resources
+C:\Users\tomip\Desktop\School\PRG\4. Ročník\ROP\ROP\ROP\obj\Debug\ROP.Save.resources
+G:\ROP\ROP\ROP\obj\Debug\ROP.Save.resources
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.csprojAssemblyReference.cache
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\Interop.WMPLib.dll
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.csproj.ResolveComReference.cache
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.exe
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.pdb
+C:\Users\SanderaT.03\Desktop\ROP\ROP\bin\Debug\8-bit Detective.wav
+C:\Users\SanderaT.03\Desktop\ROP\ROP\bin\Debug\Crunch_sound.wav
+C:\Users\SanderaT.03\Desktop\ROP\ROP\bin\Debug\ROP.exe.config
+C:\Users\SanderaT.03\Desktop\ROP\ROP\bin\Debug\ROP.exe
+C:\Users\SanderaT.03\Desktop\ROP\ROP\bin\Debug\ROP.pdb
+C:\Users\SanderaT.03\Desktop\ROP\ROP\bin\Debug\Interop.WMPLib.dll
+C:\Users\SanderaT.03\Desktop\ROP\ROP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.Congratulations.resources
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.Difficulty.resources
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.Form1.resources
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.Game.resources
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.Movement.resources
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.Properties.Resources.resources
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.Save.resources
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.Score.resources
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.csproj.GenerateResource.cache
+C:\Users\SanderaT.03\Desktop\ROP\ROP\obj\Debug\ROP.csproj.CoreCompileInputs.cache
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\bin\Debug\8-bit Detective.wav
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\bin\Debug\Crunch_sound.wav
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\bin\Debug\ROP.exe.config
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\bin\Debug\ROP.exe
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\bin\Debug\ROP.pdb
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\bin\Debug\Interop.WMPLib.dll
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.csproj.AssemblyReference.cache
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\Interop.WMPLib.dll
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.csproj.ResolveComReference.cache
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.Congratulations.resources
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.Difficulty.resources
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.Form1.resources
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.Game.resources
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.Movement.resources
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.Properties.Resources.resources
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.Save.resources
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.Score.resources
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.csproj.GenerateResource.cache
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.csproj.CoreCompileInputs.cache
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.exe
+C:\Users\tomip\Desktop\School\ROP\ROP\ROP\obj\Debug\ROP.pdb
+F:\School\ROP\ROP\ROP\bin\Debug\8-bit Detective.wav
+F:\School\ROP\ROP\ROP\bin\Debug\Crunch_sound.wav
+F:\School\ROP\ROP\ROP\bin\Debug\ROP.exe.config
+F:\School\ROP\ROP\ROP\bin\Debug\ROP.exe
+F:\School\ROP\ROP\ROP\bin\Debug\ROP.pdb
+F:\School\ROP\ROP\ROP\bin\Debug\Interop.WMPLib.dll
+F:\School\ROP\ROP\ROP\bin\Debug\AxInterop.WMPLib.dll
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.csproj.AssemblyReference.cache
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.csproj.SuggestedBindingRedirects.cache
+F:\School\ROP\ROP\ROP\obj\Debug\Interop.WMPLib.dll
+F:\School\ROP\ROP\ROP\obj\Debug\AxInterop.WMPLib.dll
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.csproj.ResolveComReference.cache
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.Congratulations.resources
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.Difficulty.resources
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.Form1.resources
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.Game.resources
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.Movement.resources
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.Properties.Resources.resources
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.Save.resources
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.Score.resources
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.csproj.GenerateResource.cache
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.csproj.CoreCompileInputs.cache
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.exe
+F:\School\ROP\ROP\ROP\obj\Debug\ROP.pdb
