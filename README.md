@@ -1,0 +1,1 @@
+Cílem této práce je snaha o završení mých schopností programátora na praktickém a konkrétním příkladu. Můj cíl je vytvořit hru Had, nebo Snake, určená pro všechny, kteří by si chtěli zahrát tuto starší, ale zábavnou hru. Uživatel si může vybrat jednu ze tří obtížností, Easy, Medium a Hard, které mění velikost hracího pole a rychlost pohybu hada v poli.
